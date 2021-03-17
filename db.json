@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "jan@mail.com",
+      "password": "$2a$10$HAgkvp1ZAMYNFBQJnzBVSeXjHkn0k0vHyTC5kRkui1JQ6n3T3YlGK",
+      "id": 1
+    }
+  ],
+  "barcode": [
+    "94ac8ff1-eb0c-4117-b77a-64f0cfb6e792"
+  ]
+}
