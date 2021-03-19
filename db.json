@@ -1,6 +1,12 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "jan@jan.nl",
+      "password": "$2a$10$tKKQrgYzCDupteL12a4zV.P5kr3IfdUdhNClSkzTEBjHTNj2JHVk.",
+      "id": 1
+    }
+  ],
   "barcode": [
-    "94ac8ff1-eb0c-4117-b77a-64f0cfb6e792"
-  ]
+	"94ac8ff1-eb0c-4117-b77a-64f0cfb6e792"
+	]
 }
